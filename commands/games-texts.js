@@ -16,7 +16,7 @@ export const VERDADES = [
 
 export const RETOS = [
   "Enviá una foto de tu ropa interior",
-  "Enviá una foto sexy (sin mostrar la cara si querés)",
+  "Enviá una foto sexy",
   "Mandá un audio diciendo algo sucio",
   "Describí con detalle tu última vez",
   "Enviá una foto de algo que te excite",
