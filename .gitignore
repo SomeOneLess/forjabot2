@@ -1,0 +1,7 @@
+node_modules/
+auth/
+cache/
+forjabot-ajustes.json
+forjabot-actividad.json
+*.log
+.DS_Store
